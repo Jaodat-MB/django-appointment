@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="24.7.7">
+  <diagram name="Page-1" id="tQf20HpTF1wYiivZ-3YR">
+    <mxGraphModel dx="2516" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Identify need of data sharing within Spire instance&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="400" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-2" value="Use Case who are receiving the data align with Local Data Protection Team" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="400" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-3" value="Requests Sharing from Spire Service Desk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-7" value="Enable Spire element connection request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="800" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-8" value="Connection established" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="800" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-uE5J0Mp4RU1fBsUriHv-9" target="RUrfHn6ArPIJ4jXUnQDx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-9" value="Email send to receiving Information Owner/Use Case&amp;nbsp; owner, sending IO/Use Case Owner&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="600" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-uE5J0Mp4RU1fBsUriHv-1" target="-uE5J0Mp4RU1fBsUriHv-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="680" as="sourcePoint" />
+            <mxPoint x="170" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="459.5" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-uE5J0Mp4RU1fBsUriHv-3" target="-uE5J0Mp4RU1fBsUriHv-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="680" as="sourcePoint" />
+            <mxPoint x="170" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="-uE5J0Mp4RU1fBsUriHv-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="859.5" as="sourcePoint" />
+            <mxPoint x="2310" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;customer&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="340" width="3010" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-uE5J0Mp4RU1fBsUriHv-18" source="RUrfHn6ArPIJ4jXUnQDx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2360" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1570" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-uE5J0Mp4RU1fBsUriHv-18">
+          <mxGeometry x="1520" y="60" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-5" value="Declined" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-uE5J0Mp4RU1fBsUriHv-18">
+          <mxGeometry x="2160" y="40" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-uE5J0Mp4RU1fBsUriHv-18" source="RUrfHn6ArPIJ4jXUnQDx-2" target="RUrfHn6ArPIJ4jXUnQDx-5">
+          <mxGeometry x="-0.0018" relative="1" as="geometry">
+            <mxPoint x="1793.9" y="110.03999999999996" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-7" value="&lt;br&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;If the sending Information&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Owner/Use Case Owner decline the request over Comment &quot;Decline&quot;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-uE5J0Mp4RU1fBsUriHv-18">
+          <mxGeometry x="1655" y="80" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;service desk&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="560" width="3010" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Platform team&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="760" width="3010" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RUrfHn6ArPIJ4jXUnQDx-8" value="&lt;br&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;If the sending Information&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Owner/Use Case Owner do not reply within 5 working days&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-uE5J0Mp4RU1fBsUriHv-20">
+          <mxGeometry x="1670" y="60" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-uE5J0Mp4RU1fBsUriHv-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Service Request&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="340" width="50" height="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
