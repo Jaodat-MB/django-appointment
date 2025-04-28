@@ -1,25 +1,22 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="hQ-1x9BbB4eBENIIL7El">
-    <mxGraphModel dx="2869" dy="2221" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2473" dy="1954" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-42" y="459" width="1155" height="67.15" as="geometry" />
-        </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-60" y="2782" width="871" height="793" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="112" y="2488" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="1263" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-72" y="1739" width="866" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-1" target="LPWXYnSDIeVFGLM9SnJD-32">
+        <mxCell id="YCz1P3o43b8qL185OjPD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-1" target="LPWXYnSDIeVFGLM9SnJD-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-1" value="Using existing data in Spire?&lt;div&gt;(Is the data you will utilize already available on Spire?)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,15 +25,15 @@
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-10" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="397" y="139" width="46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-18">
+        <mxCell id="YCz1P3o43b8qL185OjPD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="125.28571428571468" y="250.42857142857156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-18" value="Do you have the Infrastructure (Data Asset/Container) to load the data in Spire&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-18" value="Did you raised the Infrastructure (Data Asset/Container) to load the data in Spire&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-28">
+        <mxCell id="YCz1P3o43b8qL185OjPD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360.5" y="1736.095238095238" as="targetPoint" />
           </mxGeometry>
@@ -50,7 +47,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-85" value="Dummy Data Load" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="-22" y="1785" width="785" height="310" as="geometry" />
+          <mxGeometry x="-22" y="1785" width="785" height="276.25" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-85" vertex="1">
           <mxGeometry y="30" width="785" height="94" as="geometry" />
@@ -71,39 +68,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-85" vertex="1">
-          <mxGeometry y="124" width="785" height="92" as="geometry" />
+          <mxGeometry y="124" width="785" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-96" value="&lt;b&gt;a. The system is not in HQ&lt;/b&gt;&lt;div&gt;&lt;b&gt;b. It is not a manual file upload&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;c. External system of MB group&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-89" vertex="1">
-          <mxGeometry width="365" height="92" as="geometry">
-            <mxRectangle width="365" height="92" as="alternateBounds" />
+          <mxGeometry width="365" height="66" as="geometry">
+            <mxRectangle width="365" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-90" value="&#xa;&lt;strong style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;ISO approval for each environment&lt;/strong&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-89" vertex="1">
-          <mxGeometry x="365" width="180" height="92" as="geometry">
-            <mxRectangle width="180" height="92" as="alternateBounds" />
+          <mxGeometry x="365" width="180" height="66" as="geometry">
+            <mxRectangle width="180" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-91" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-89" vertex="1">
-          <mxGeometry x="545" width="240" height="92" as="geometry">
-            <mxRectangle width="240" height="92" as="alternateBounds" />
+          <mxGeometry x="545" width="240" height="66" as="geometry">
+            <mxRectangle width="240" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-92" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-85" vertex="1">
-          <mxGeometry y="216" width="785" height="94" as="geometry" />
+          <mxGeometry y="190" width="785" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-97" value="&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;i&gt;Once per Use Case if you are load any new data attributes&amp;nbsp;&lt;/i&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-92" vertex="1">
-          <mxGeometry width="365" height="94" as="geometry">
-            <mxRectangle width="365" height="94" as="alternateBounds" />
+          <mxGeometry width="365" height="66" as="geometry">
+            <mxRectangle width="365" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-93" value="&lt;strong style=&quot;text-align: left;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;Data Point List&amp;nbsp;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-92" vertex="1">
-          <mxGeometry x="365" width="180" height="94" as="geometry">
-            <mxRectangle width="180" height="94" as="alternateBounds" />
+          <mxGeometry x="365" width="180" height="66" as="geometry">
+            <mxRectangle width="180" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-92" vertex="1">
-          <mxGeometry x="545" width="240" height="94" as="geometry">
-            <mxRectangle width="240" height="94" as="alternateBounds" />
+          <mxGeometry x="545" width="240" height="66" as="geometry">
+            <mxRectangle width="240" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-8" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LPWXYnSDIeVFGLM9SnJD-85">
+          <mxGeometry y="256" width="785" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-9" value="Risky Markets" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y7k2DuHG3BQ3ztzCPaFn-8">
+          <mxGeometry width="365" height="20" as="geometry">
+            <mxRectangle width="365" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-10" value="MLLR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y7k2DuHG3BQ3ztzCPaFn-8">
+          <mxGeometry x="365" width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y7k2DuHG3BQ3ztzCPaFn-8">
+          <mxGeometry x="545" width="240" height="20" as="geometry">
+            <mxRectangle width="240" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-98" value="Are you loading Prod Data on Spire" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -187,17 +202,17 @@
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-116" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-99" vertex="1">
           <mxGeometry y="402" width="785" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-117" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;i&gt;If you plan to process data from one of the Critical Markets (China, Russia, South Korea, Malaysia, Israel, Japan), once per critical market legal entity&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="LPWXYnSDIeVFGLM9SnJD-116" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-117" value="&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;i&gt;If you are processing any personal data&lt;/i&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="LPWXYnSDIeVFGLM9SnJD-116" vertex="1">
           <mxGeometry width="355" height="94" as="geometry">
             <mxRectangle width="355" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-118" value="&lt;strong style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; letter-spacing: -0.07px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-renderer-mark=&quot;true&quot;&gt;Mandatory Local Legal Risk&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-116" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-118" value="&lt;strong style=&quot;white-space-collapse: preserve; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; letter-spacing: -0.07px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-renderer-mark=&quot;true&quot;&gt;Data Protection Assessment Data Protection Agreement&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-116" vertex="1">
           <mxGeometry x="355" width="190" height="94" as="geometry">
             <mxRectangle width="190" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-119" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-116" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-119" value="Data Protection Assessment&amp;nbsp;&lt;div&gt;Data Protection Agreement&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-116" vertex="1">
           <mxGeometry x="545" width="240" height="94" as="geometry">
             <mxRectangle width="240" height="94" as="alternateBounds" />
           </mxGeometry>
@@ -205,17 +220,17 @@
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-120" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-99" vertex="1">
           <mxGeometry y="496" width="785" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-121" value="&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;i&gt;If you are processing any personal data&lt;/i&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-120" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-121" value="&lt;b&gt;If you do not have any contract to process the data&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-120" vertex="1">
           <mxGeometry width="355" height="94" as="geometry">
             <mxRectangle width="355" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-122" value="&lt;strong style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; letter-spacing: -0.07px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-renderer-mark=&quot;true&quot;&gt;Data Protection Assessment Data Protection Agreement&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-120" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-122" value="&lt;strong style=&quot;white-space-collapse: preserve; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; letter-spacing: -0.07px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-renderer-mark=&quot;true&quot;&gt;C4MB Contract&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-120" vertex="1">
           <mxGeometry x="355" width="190" height="94" as="geometry">
             <mxRectangle width="190" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-123" value="Data Protection Assessment&amp;nbsp;&lt;div&gt;Data Protection Agreement&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-120" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-123" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-120" vertex="1">
           <mxGeometry x="545" width="240" height="94" as="geometry">
             <mxRectangle width="240" height="94" as="alternateBounds" />
           </mxGeometry>
@@ -223,12 +238,12 @@
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-108" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-99" vertex="1">
           <mxGeometry y="590" width="785" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-109" value="&lt;b&gt;If you do not have any contract to process the data&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-108" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-109" value="Personal Data EU Country" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-108" vertex="1">
           <mxGeometry width="355" height="94" as="geometry">
             <mxRectangle width="355" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPWXYnSDIeVFGLM9SnJD-110" value="&lt;strong style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; letter-spacing: -0.07px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-renderer-mark=&quot;true&quot;&gt;C4MB Contract&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-108" vertex="1">
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-110" value="Record of Processing Activity" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-108" vertex="1">
           <mxGeometry x="355" width="190" height="94" as="geometry">
             <mxRectangle width="190" height="94" as="alternateBounds" />
           </mxGeometry>
@@ -247,7 +262,7 @@
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-133" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367" y="1691" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-134" target="LPWXYnSDIeVFGLM9SnJD-18">
+        <mxCell id="YCz1P3o43b8qL185OjPD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-134" target="LPWXYnSDIeVFGLM9SnJD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Raise the Infrastructure request in Service Desk" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Please get familiar with&amp;nbsp;Spire internal data sharing process:&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251);&quot; href=&quot;https://mercedes-benz-mobility.atlassian.net/wiki/spaces/DSPL/pages/673218737/Spire+internal+data+sharing&quot;&gt;Spire internal data sharing - spire - Confluence&lt;/a&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;and raise the request via Service Desk&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251);&quot; href=&quot;https://mercedes-benz-mobility.atlassian.net/servicedesk/customer/portal/48/group/164/create/971&quot;&gt;Connect spire Internal Elements - spire - Jira Service Management&lt;/a&gt;&#xa;&#xa;" id="LPWXYnSDIeVFGLM9SnJD-134">
@@ -261,20 +276,23 @@
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-140" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="267" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=-0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-1" target="LPWXYnSDIeVFGLM9SnJD-18">
+        <mxCell id="YCz1P3o43b8qL185OjPD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=-0.064;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-1" target="LPWXYnSDIeVFGLM9SnJD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-42" y="459" width="850" height="554" as="geometry" />
+        <mxCell id="YCz1P3o43b8qL185OjPD-10" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-48" y="530" width="1155" height="554" as="geometry" />
+        </mxCell>
+        <mxCell id="LPWXYnSDIeVFGLM9SnJD-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YCz1P3o43b8qL185OjPD-10" vertex="1">
+          <mxGeometry y="2" width="1037" height="67.15" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-30" value="&lt;strong data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;strong&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Infrastructure Build Approval&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" parent="YCz1P3o43b8qL185OjPD-10" vertex="1">
           <mxGeometry x="432.9950649350649" y="36.00060606060606" width="220.77922077922074" height="44.76767676767677" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-47" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="YCz1P3o43b8qL185OjPD-10" vertex="1">
-          <mxGeometry y="67.15151515151514" width="1155.5" height="486.8484848484848" as="geometry" />
+          <mxGeometry y="67.15151515151514" width="1037.25" height="427.4469696969698" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-47" vertex="1">
-          <mxGeometry width="1155.5" height="94" as="geometry" />
+          <mxGeometry width="1037.25" height="94" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-53" value="Condition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-52" vertex="1">
           <mxGeometry width="375" height="94" as="geometry">
@@ -287,12 +305,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-55" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-52" vertex="1">
-          <mxGeometry x="567" width="589" height="94" as="geometry">
-            <mxRectangle width="589" height="94" as="alternateBounds" />
+          <mxGeometry x="567" width="470" height="94" as="geometry">
+            <mxRectangle width="470" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-47" vertex="1">
-          <mxGeometry y="94" width="1155.5" height="73" as="geometry" />
+          <mxGeometry y="94" width="1037.25" height="73" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-57" value="&lt;i style=&quot;text-align: left;&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;strong&quot;&gt;Once&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;strong&quot;&gt;per infrastructure request in case of data transfer to Spire&lt;/strong&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-56" vertex="1">
           <mxGeometry width="375" height="73" as="geometry">
@@ -305,12 +323,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-59" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h5 style=&quot;margin-top: 1.667em; padding: 0px; font-weight: var(--ds-font-weight-semibold, 600); font-size: 0.857143em; line-height: 1.33333; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; color: rgb(23, 43, 77); letter-spacing: -0.042px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-renderer-start-pos=&quot;73&quot; id=&quot;Task-and-Responsibility:-Use-Case-Owner-or-appointed-person-from-the-Information-Owner-has-to-fill-the-Usage-Information-for-Data-Sharing.-This-a-Jira-Form-which-will-be-created-in-your-ticket-once-infrastructure-request-is-raised-by-the-use-case-and-approved-by-Spire-Product-Owner.&quot;&gt;Use Case Owner or appointed person from the Information Owner has to fill the &lt;a style=&quot;text-decoration-line: none;&quot; class=&quot;css-1rn59kg&quot; data-renderer-mark=&quot;true&quot; title=&quot;https://social.cloud.corpintra.net/docs/DOC-566161&quot; href=&quot;https://social.cloud.corpintra.net/docs/DOC-566161&quot; data-testid=&quot;link-with-safety&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Usage Information for Data Sharing&lt;/strong&gt;&lt;/a&gt;. This a Jira Form which will be created in &lt;strong data-renderer-mark=&quot;true&quot;&gt;your ticket&lt;/strong&gt; once infrastructure request is raised by the use case and approved by Spire Product Owner.&lt;/h5&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-56" vertex="1">
-          <mxGeometry x="567" width="589" height="73" as="geometry">
-            <mxRectangle width="589" height="73" as="alternateBounds" />
+          <mxGeometry x="567" width="470" height="73" as="geometry">
+            <mxRectangle width="470" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-47" vertex="1">
-          <mxGeometry y="167" width="1155.5" height="85" as="geometry" />
+          <mxGeometry y="167" width="1037.25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-61" value="&lt;strong style=&quot;text-align: left;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;i&gt;Once per Information Owner and Use Case Owner&lt;/i&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-60" vertex="1">
           <mxGeometry width="375" height="85" as="geometry">
@@ -323,12 +341,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-63" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h5 style=&quot;margin-top: 1.667em; padding: 0px; font-weight: var(--ds-font-weight-semibold, 600); font-size: 0.857143em; line-height: 1.33333; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; color: rgb(23, 43, 77); letter-spacing: -0.042px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-renderer-start-pos=&quot;49&quot; id=&quot;Task-and-Responsibility:-Confirmation-by-MBM-AG-Information-Owner-(e.g.-E3)-and-by-Use-Case-Owner-(e.g.-E4)-of-the-following-Terms-of-Use.-Please-share-the-link-with-the-following-link-with-the-IO-and-UCO.-General-Terms-and-Conditions---Enablement&quot;&gt;Confirmation by MBM AG Information Owner (e.g. E3) and by Use Case Owner&amp;nbsp;(e.g. E4) of the following Terms of Use. Please share the link with the following link with the IO and UCO.&lt;/h5&gt;&lt;h5 style=&quot;margin-top: 1.667em; padding: 0px; font-weight: var(--ds-font-weight-semibold, 600); font-size: 0.857143em; line-height: 1.33333; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; color: rgb(23, 43, 77); letter-spacing: -0.042px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-renderer-start-pos=&quot;49&quot; id=&quot;Task-and-Responsibility:-Confirmation-by-MBM-AG-Information-Owner-(e.g.-E3)-and-by-Use-Case-Owner-(e.g.-E4)-of-the-following-Terms-of-Use.-Please-share-the-link-with-the-following-link-with-the-IO-and-UCO.-General-Terms-and-Conditions---Enablement&quot;&gt;&lt;a style=&quot;text-decoration-line: none;&quot; class=&quot;css-1rn59kg&quot; data-renderer-mark=&quot;true&quot; title=&quot;https://mercedes-benz-mobility.atlassian.net/servicedesk/customer/portal/48/group/256/create/1025&quot; href=&quot;https://mercedes-benz-mobility.atlassian.net/servicedesk/customer/portal/48/group/256/create/1025&quot; data-testid=&quot;link-with-safety&quot;&gt;General Terms and Conditions - Enablement &lt;/a&gt;&lt;/h5&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-60" vertex="1">
-          <mxGeometry x="567" width="589" height="85" as="geometry">
-            <mxRectangle width="589" height="85" as="alternateBounds" />
+          <mxGeometry x="567" width="470" height="85" as="geometry">
+            <mxRectangle width="470" height="85" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-47" vertex="1">
-          <mxGeometry y="252" width="1155.5" height="83" as="geometry" />
+          <mxGeometry y="252" width="1037.25" height="83" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-65" value="&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;i&gt;Once per use case only if&amp;nbsp;to use case plans to use any Advanced Analytics tools or AI features&lt;/i&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-64" vertex="1">
           <mxGeometry width="375" height="83" as="geometry">
@@ -341,169 +359,174 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-67" value="&lt;h5 data-pm-slice=&quot;1 1 []&quot; data-prosemirror-node-block=&quot;true&quot; data-prosemirror-node-name=&quot;heading&quot; data-prosemirror-content-type=&quot;node&quot; data-local-id=&quot;330bf73b-d05a-4cbc-96a9-7598316a60f1&quot;&gt;Use Case Owner fills out the &lt;a data-prosemirror-mark-name=&quot;link&quot; data-prosemirror-content-type=&quot;mark&quot; href=&quot;https://social.cloud.corpintra.net/apps/app-station?appId=2103065&quot;&gt;Data Q&lt;/a&gt; questionnaire and aligned the mitigation measures with AI Governance team (&lt;a data-prosemirror-mark-name=&quot;link&quot; data-prosemirror-content-type=&quot;mark&quot; href=&quot;mailto:AIGovernance@mercedes-benz.com&quot;&gt;&lt;strong data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;AIGovernance@mercedes-benz.com&lt;/strong&gt;&lt;/a&gt;&lt;strong data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;)&lt;/strong&gt;.&lt;/h5&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-64" vertex="1">
-          <mxGeometry x="567" width="589" height="83" as="geometry">
-            <mxRectangle width="589" height="83" as="alternateBounds" />
+          <mxGeometry x="567" width="470" height="83" as="geometry">
+            <mxRectangle width="470" height="83" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-68" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LPWXYnSDIeVFGLM9SnJD-47" vertex="1">
-          <mxGeometry y="335" width="1155.5" height="152" as="geometry" />
+          <mxGeometry y="335" width="1037.25" height="92" as="geometry" />
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-69" value="&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;i&gt;Once per use case only if&amp;nbsp;to use case plans to use any Advanced Analytics tools or AI features&lt;/i&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-68" vertex="1">
-          <mxGeometry width="375" height="152" as="geometry">
-            <mxRectangle width="375" height="152" as="alternateBounds" />
+          <mxGeometry width="375" height="92" as="geometry">
+            <mxRectangle width="375" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-70" value="&lt;strong style=&quot;text-align: left;&quot; data-prosemirror-mark-name=&quot;strong&quot; data-prosemirror-content-type=&quot;mark&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Ensure Data Management requirements of the A22.1&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-68" vertex="1">
-          <mxGeometry x="375" width="192" height="152" as="geometry">
-            <mxRectangle width="192" height="152" as="alternateBounds" />
+          <mxGeometry x="375" width="192" height="92" as="geometry">
+            <mxRectangle width="192" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LPWXYnSDIeVFGLM9SnJD-71" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-prosemirror-node-block=&quot;true&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-content-type=&quot;node&quot; data-local-id=&quot;0896b4d1-df38-4ad5-bfba-1d4dbbdbeffb&quot;&gt;Confirmation that you have performed the A22 Data Asset Identification assessment.&amp;nbsp; Follow the below instruction:&amp;nbsp;&lt;a style=&quot;background-color: transparent;&quot; href=&quot;https://social.cloud.corpintra.net/docs/DOC-617837&quot;&gt;Ensure the fulfillment of the Data Management r... | spire - The global MBM cloud analytics platform&lt;/a&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LPWXYnSDIeVFGLM9SnJD-68" vertex="1">
-          <mxGeometry x="567" width="589" height="152" as="geometry">
-            <mxRectangle width="589" height="152" as="alternateBounds" />
+          <mxGeometry x="567" width="470" height="92" as="geometry">
+            <mxRectangle width="470" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-14" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Spire Service Desk provides your governance deliverables in the raised request&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="YCz1P3o43b8qL185OjPD-10">
+        <mxCell id="YCz1P3o43b8qL185OjPD-14" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Spire Service Desk provides your governance deliverables in the raised request&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="YCz1P3o43b8qL185OjPD-10" vertex="1">
           <mxGeometry x="293" y="11" width="496" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-18">
+        <mxCell id="YCz1P3o43b8qL185OjPD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.332;entryY=-0.103;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-18" edge="1" target="YCz1P3o43b8qL185OjPD-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="404" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-26" target="LPWXYnSDIeVFGLM9SnJD-28">
+        <mxCell id="YCz1P3o43b8qL185OjPD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YCz1P3o43b8qL185OjPD-26" target="LPWXYnSDIeVFGLM9SnJD-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="361" y="1473" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-26" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Prepare governance deliverables and submit in the service desk ticket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-26" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Prepare governance deliverables and submit in the service desk ticket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="174.9988888888887" y="1282.9988888888888" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-28">
+        <mxCell id="YCz1P3o43b8qL185OjPD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YCz1P3o43b8qL185OjPD-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-104.44444444444434" y="1166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-28" target="YCz1P3o43b8qL185OjPD-27">
+        <mxCell id="YCz1P3o43b8qL185OjPD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YCz1P3o43b8qL185OjPD-28" target="YCz1P3o43b8qL185OjPD-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-28" value="Are you clear about the governance to-dos to get the Infra build approval?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-28" value="Are you clear about the governance to-dos to get the Infra build approval?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="66" y="1136" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-30" target="YCz1P3o43b8qL185OjPD-28">
+        <mxCell id="YCz1P3o43b8qL185OjPD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="YCz1P3o43b8qL185OjPD-30" target="YCz1P3o43b8qL185OjPD-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-30" value="Comment the concern/doubt in the SD ticket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-30" value="Comment the concern/doubt in the SD ticket" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-757" y="1139" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-32" value="Spire Team will reach out to you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-32" value="Spire Team will reach out to you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-311" y="1091" width="277" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-34" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-34" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="323" y="1218" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-35" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-35" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-38" y="1173" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=-0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YCz1P3o43b8qL185OjPD-28">
+        <mxCell id="YCz1P3o43b8qL185OjPD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=-0.14;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.438;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="YCz1P3o43b8qL185OjPD-28" edge="1" source="LPWXYnSDIeVFGLM9SnJD-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="383.52000000000044" y="1018" as="sourcePoint" />
             <mxPoint x="383.52000000000044" y="1109.12" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1086" />
+              <mxPoint x="460" y="1110" />
+              <mxPoint x="386" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Spire Service Desk provides your governance deliverables in the raised request&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Spire Service Desk provides your governance deliverables in the raised request&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165.9988888888887" y="1752" width="451" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Spire Service Desk provides your governance deliverables in the raised request&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Spire Service Desk provides your governance deliverables in the raised request&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="147.9988888888887" y="2796" width="451" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-41" target="LPWXYnSDIeVFGLM9SnJD-98">
+        <mxCell id="YCz1P3o43b8qL185OjPD-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YCz1P3o43b8qL185OjPD-41" target="LPWXYnSDIeVFGLM9SnJD-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-41" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Prepare governance deliverables and submit in the service desk ticket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-41" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Prepare governance deliverables and submit in the service desk ticket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220.9988888888887" y="2497.998888888889" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-43">
+        <mxCell id="YCz1P3o43b8qL185OjPD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YCz1P3o43b8qL185OjPD-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-58.44444444444434" y="2396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="357.3333333333335" y="2482" as="targetPoint" />
             <mxPoint x="357.99999999999955" y="2426" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-43" value="Are you clear about the governance to-dos to get the dummy data load approval?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-43" value="Are you clear about the governance to-dos to get the dummy data load approval?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="112" y="2366" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-45" target="YCz1P3o43b8qL185OjPD-43">
+        <mxCell id="YCz1P3o43b8qL185OjPD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="YCz1P3o43b8qL185OjPD-45" target="YCz1P3o43b8qL185OjPD-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-45" value="Comment the concern/doubt in the SD ticket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-45" value="Comment the concern/doubt in the SD ticket" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-711" y="2369" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-46" value="Spire Team will reach out to you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-46" value="Spire Team will reach out to you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-265" y="2321" width="277" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-47" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-47" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="402" y="2448" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-48" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-48" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8" y="2403" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-23">
+        <mxCell id="YCz1P3o43b8qL185OjPD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YCz1P3o43b8qL185OjPD-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="2360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-98" target="YCz1P3o43b8qL185OjPD-56">
+        <mxCell id="YCz1P3o43b8qL185OjPD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-98" target="YCz1P3o43b8qL185OjPD-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-58" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-58" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="371" y="2745" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="91" y="3829" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-70" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Prepare governance deliverables and submit in the service desk ticket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-70" value="&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Prepare governance deliverables and submit in the service desk ticket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="199.9988888888887" y="3838.9988888888893" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-73">
+        <mxCell id="YCz1P3o43b8qL185OjPD-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YCz1P3o43b8qL185OjPD-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-79.44444444444434" y="3737" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="336.3333333333335" y="3823" as="targetPoint" />
             <mxPoint x="336.99999999999955" y="3767" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-73" value="Are you clear about the governance to-dos to get the dummy data load approval?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-73" value="Are you clear about the governance to-dos to get the dummy data load approval?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="91" y="3707" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-75" target="YCz1P3o43b8qL185OjPD-73">
+        <mxCell id="YCz1P3o43b8qL185OjPD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="YCz1P3o43b8qL185OjPD-75" target="YCz1P3o43b8qL185OjPD-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-75" value="Comment the concern/doubt in the SD ticket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-75" value="Comment the concern/doubt in the SD ticket" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-732" y="3710" width="648" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-76" value="Spire Team will reach out to you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-76" value="Spire Team will reach out to you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-286" y="3662" width="277" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-77" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-77" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="381" y="3789" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-78" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YCz1P3o43b8qL185OjPD-78" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-13" y="3744" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YCz1P3o43b8qL185OjPD-56" target="YCz1P3o43b8qL185OjPD-73">
+        <mxCell id="YCz1P3o43b8qL185OjPD-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YCz1P3o43b8qL185OjPD-56" target="YCz1P3o43b8qL185OjPD-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCz1P3o43b8qL185OjPD-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LPWXYnSDIeVFGLM9SnJD-28" target="LPWXYnSDIeVFGLM9SnJD-98">
+        <mxCell id="YCz1P3o43b8qL185OjPD-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="LPWXYnSDIeVFGLM9SnJD-28" target="LPWXYnSDIeVFGLM9SnJD-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="1633" />
@@ -511,6 +534,20 @@
               <mxPoint x="970" y="2699" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y7k2DuHG3BQ3ztzCPaFn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="108.28571428571468" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-1" value="Multiple container ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="347" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-2" value="Data asset Light Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="346" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7k2DuHG3BQ3ztzCPaFn-4" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="346" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
