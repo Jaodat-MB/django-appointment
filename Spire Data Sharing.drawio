@@ -1,0 +1,276 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.9">
+  <diagram name="Page-1" id="I98358MaRzCFRkKKWCR3">
+    <mxGraphModel dx="1610" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-2" value="Spire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="75" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="70" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-8" value="Market" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-7" target="Awsfu7emqcYlEtNK8d1r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="90" as="sourcePoint" />
+            <mxPoint x="490" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-11" value="Use Case A&lt;br&gt;Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-11" target="Awsfu7emqcYlEtNK8d1r-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="385" as="sourcePoint" />
+            <mxPoint x="555" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-13" value="&lt;div&gt;Use Case B Storage&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-14" value="Spire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-15" value="IO B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-16" value="IO A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-18" value="Spire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="225" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="220" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-22" value="Market" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-19" target="Awsfu7emqcYlEtNK8d1r-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="550" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-25" value="&amp;nbsp;A&lt;br&gt;Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-25" target="Awsfu7emqcYlEtNK8d1r-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="565" as="sourcePoint" />
+            <mxPoint x="555" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-27" value="&lt;div&gt;&amp;nbsp;B Storage&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="610" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-28" value="Spire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-29" value="IO A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-30" value="IO A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="997" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-32" value="Use Case&amp;nbsp;&lt;div&gt;DwH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1057" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-32" target="Awsfu7emqcYlEtNK8d1r-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="1012" as="sourcePoint" />
+            <mxPoint x="555" y="1042" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-34" value="&lt;div&gt;&amp;nbsp;Compartment&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1057" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-35" value="Spire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1007" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-38" value="market A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1004.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-39" value="market B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1079.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-38" target="Awsfu7emqcYlEtNK8d1r-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="847" as="sourcePoint" />
+            <mxPoint x="490" y="797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.067;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-39" target="Awsfu7emqcYlEtNK8d1r-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="847" as="sourcePoint" />
+            <mxPoint x="490" y="797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1197" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-43" value="Use Case&amp;nbsp;&lt;div&gt;DwH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1257" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-43" target="Awsfu7emqcYlEtNK8d1r-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="1212" as="sourcePoint" />
+            <mxPoint x="555" y="1242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-45" value="&lt;div&gt;&amp;nbsp;Compartment&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1257" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-46" value="Spire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1207" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-47" value="market A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1204.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-48" value="market B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1279.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-47" target="Awsfu7emqcYlEtNK8d1r-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1047" as="sourcePoint" />
+            <mxPoint x="490" y="997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.067;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-48" target="Awsfu7emqcYlEtNK8d1r-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1047" as="sourcePoint" />
+            <mxPoint x="490" y="997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-51" value="New Market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1367" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1547" as="sourcePoint" />
+            <mxPoint x="300" y="1307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-53" value="Spire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1507" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1522" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1507" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1517" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-57" value="Cloud Platform" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1567" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-56" target="Awsfu7emqcYlEtNK8d1r-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1537" as="sourcePoint" />
+            <mxPoint x="490" y="1747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-60" value="Spire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1827" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1842" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1827" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1837" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-66" value="DDX" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1717" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-63" target="Awsfu7emqcYlEtNK8d1r-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1647" as="sourcePoint" />
+            <mxPoint x="570" y="1597" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-66" target="Awsfu7emqcYlEtNK8d1r-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1867" as="sourcePoint" />
+            <mxPoint x="482" y="1787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-69" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2087" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-70" value="Spire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="2027" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2042" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Awsfu7emqcYlEtNK8d1r-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1947" as="sourcePoint" />
+            <mxPoint x="320" y="2127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-78" value="Use Case A&lt;br&gt;Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-80" value="&lt;div&gt;Use Case B Storage&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="800" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-81" value="Spire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-82" value="IO B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-83" value="IO A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Awsfu7emqcYlEtNK8d1r-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="829.5" as="sourcePoint" />
+            <mxPoint x="500" y="829.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-85" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="Awsfu7emqcYlEtNK8d1r-84">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Awsfu7emqcYlEtNK8d1r-87" value="Certain views" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
